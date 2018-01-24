@@ -20,6 +20,6 @@ Note Detection             | Note Detection
 <img src="https://i.imgur.com/WFtuArv.jpg" height="450" width="240">  |  <img src="https://i.imgur.com/JWRfr2w.jpg" height="450" width="240">
   ## Output Calculated by the program: Rs 2700
 ### Future improvements
-Since this app was concieved in a hackathon, we had to deal with a lot of time constraints. As a result, the this iteration supports few notes, Rs 500, Rs 2000, Rs 200 and Rs 50.
+Since this app was concieved in a hackathon, we had to deal with a lot of time constraints. As a result, the this iteration supports few notes, Rs 500, Rs 2000, Rs 200 and Rs 50. Also, the note detection capability can be switched over to an R-CNN for improved note detection, which only gets better over time. Due to lack of a proper training corpus, and time, such a network could not be trained/implemented.
 
 **Originally we had envisioned this to be a virtual wallet of sorts, which keeps track of any and all currency notes. This way, the visually impaired would never have to fidget around with their wallets to count money.**
