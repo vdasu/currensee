@@ -7,7 +7,7 @@
 We saw that the new notes introduced after demonetisation were not disablility friendly. We wanted to try and make an app that made it easier for the visually disabled to be able to count money fast and efficiently.
 
 ### The Inner Workings.
-The app is very simple to use, and designed with the visually impaired in mind. The GUI is extremely simple. All the user has to do is hold up the money and take a picture of the notes by tapping anywhere on the screen. The phone **vibrates** when the picture is taken, after which this picture is sent to our servers, which process the image and send the value back to the app. This value is then spoken aloud back to the user.
+The app is very simple to use, and designed with the visually impaired in mind. The GUI is extremely simple. All the user has to do is hold up the money and take a picture of the notes by tapping anywhere on the screen. The phone **vibrates** when the picture is taken, after which this picture is sent to our servers (Azure VM), which process the image and send the value back to the app. This value is then spoken aloud back to the user.
 
 ### Demo
 
